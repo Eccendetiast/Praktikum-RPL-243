@@ -38,6 +38,7 @@ Yī, èr, sān
 
 lagu apaan itu bangg??
 lagu cina
+<<<<<<< HEAD
 
 Langkah langkah make up natural dan tahan lama?
 Image result for tutorial make up
@@ -49,3 +50,6 @@ Gunakan Bedak Sesuai Jenis Kulit. ...
 Pakai Eyeshadow dengan Warna Natural. ...
 Tambahkan Blush On pada Pipi. ...
 Pilih Lipstik Warna Natural.
+=======
+ni ai wo wo ai ni 
+>>>>>>> 8b17e4569be172892b93b95e2d73ccbb854e13d2
